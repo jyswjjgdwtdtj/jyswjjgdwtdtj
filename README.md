@@ -38,7 +38,7 @@ Feel free to check it out, star it, or give me some feedback!
 ## 📬 Contact Me
 
 - **Email:** bryanbryan123000@outlook.com
-- **QQ:** 3621206568
+- **QQ:** [3621206568](https://wpa.qq.com/wpa_jump_page?v=3&uin=3621206568&site=qq&menu=yes)
 
 ---
 
