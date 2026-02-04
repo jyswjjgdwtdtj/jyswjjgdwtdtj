@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I love programming, but I want to keep it as a passion, not a profession!
 - 🏫 Currently a high school student exploring the world of code.
-- 💬 I usually work with **C#** (my favorite!), but can also dabble in:
+- 💬 I usually work with **C#** , but can also dabble in:
   - C++
   - Java
   - JavaScript
@@ -24,14 +24,6 @@
 > My proudest project!  
 A C# project where I challenged myself and learned a ton.  
 Feel free to check it out, star it, or give me some feedback!
-
----
-
-## ✨ Fun Facts
-
-- 💡 Programming is my hobby, and I’d like to keep it that way!
-- 🎮 I enjoy tinkering with code, building things, and learning new tech.
-- 😄 I believe learning is best when it’s fun!
 
 ---
 
